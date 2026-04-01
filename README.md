@@ -35,7 +35,7 @@ profile = {
     "focus":      ["Deep Learning", "Computer Vision", "NLP", "Multilingual AI"],
     "stack":      ["Python", "PyTorch", "TensorFlow", "OpenCV", "YOLOv8", "Streamlit"],
     "email":      "manish.maurya0408@gmail.com",
-    "location":   "India 🇮🇳"
+    "location":   "India "
 }
 ```
 
