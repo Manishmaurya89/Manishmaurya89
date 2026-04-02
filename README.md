@@ -14,8 +14,7 @@
 
 *Building intelligent systems — from real-time video analytics to multilingual data tools*
 
-[![GitHub followers](https://img.shields.io/github/followers/Manishmaurya89?style=flat-square&color=000&labelColor=f5f5f5&label=followers)](https://github.com/Manishmaurya89)
-![Profile views](https://komarev.com/ghpvc/?username=Manishmaurya89&style=flat-square&color=000000)
+
 
 
 </div>
@@ -33,7 +32,7 @@ profile = {
     "name":       "Manish Maurya",
     "degree":     "B.Tech CSE — REVA Institute of Technology, Bangalore (2021–2025)",
     "focus":      ["Deep Learning", "Computer Vision", "NLP", "Multilingual AI"],
-    "stack":      ["Python", "PyTorch", "TensorFlow", "OpenCV", "YOLOv8", "Streamlit"],
+    "stack":      ["Python", "PyTorch", "TensorFlow", "OpenCV", "Streamlit"],
     "email":      "manish.maurya0408@gmail.com",
     "location":   "India "
 }
@@ -45,10 +44,10 @@ profile = {
 
 | Project | What It Does | Tech Stack |
 |---|---|---|
-| 🏀 [Basketball Analytics](https://github.com/Manishmaurya89/Basketball-Analytics-Estimation-Using-Object-Segmentation-) | Detects & tracks players, ball, and court elements from game footage. 95%+ detection accuracy, real-time heatmaps & team stats | YOLOv8 · DeepSORT · OpenCV · PyTorch · Docker |
-| 🎵 [Music × Emotion](https://github.com/Manishmaurya89/MUSIC-RECOMMENDATION-USING-FACIAL-RECOGNITION) | Webcam-based emotion detection recommends music in real time. CNN inference optimised by 25% | Python · CNN · OpenCV · TF/Keras · Streamlit |
-| 👁️ [Face Direction Detection](https://github.com/Manishmaurya89/Face-direction-detection) | Real-time head orientation system with Kalman filtering. Improved detection accuracy by 30% | Python · CNN · OpenCV · Kalman Filter |
-| 🌐 [Synthetic Data Generator](https://github.com/Manishmaurya89/Synthetic-data-generator-) | Generates multilingual NLP datasets in 13 languages (Hindi, Urdu, Tamil, Telugu + more) via local LLM | Python · Ollama · ReportLab · gTTS |
+|  [Basketball Analytics](https://github.com/Manishmaurya89/Basketball-Analytics-Estimation-Using-Object-Segmentation-) | Detects & tracks players, ball, and court elements from game footage. 95%+ detection accuracy, real-time heatmaps & team stats | YOLOv8 · DeepSORT · OpenCV · PyTorch · Docker |
+|  [Music × Emotion](https://github.com/Manishmaurya89/MUSIC-RECOMMENDATION-USING-FACIAL-RECOGNITION) | Webcam-based emotion detection recommends music in real time. CNN inference optimised by 25% | Python · CNN · OpenCV · TF/Keras · Streamlit |
+|  [Face Direction Detection](https://github.com/Manishmaurya89/Face-direction-detection) | Real-time head orientation system with Kalman filtering. Improved detection accuracy by 30% | Python · CNN · OpenCV · Kalman Filter |
+|  [Synthetic Data Generator](https://github.com/Manishmaurya89/Synthetic-data-generator-) | Generates multilingual NLP datasets in 13 languages (Hindi, Urdu, Tamil, Telugu + more) via local LLM | Python · Ollama · ReportLab · gTTS |
 
 ---
 
