@@ -1,95 +1,88 @@
-<div align="center">
+# Hi, I'm Manish Maurya
 
-```
-███╗   ███╗ █████╗ ███╗   ██╗██╗███████╗██╗  ██╗
-████╗ ████║██╔══██╗████╗  ██║██║██╔════╝██║  ██║
-██╔████╔██║███████║██╔██╗ ██║██║███████╗███████║
-██║╚██╔╝██║██╔══██║██║╚██╗██║██║╚════██║██╔══██║
-██║ ╚═╝ ██║██║  ██║██║ ╚████║██║███████║██║  ██║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝
-                                     Manish Maurya
-```
+**AI / ML Engineer · NLP · LLMs · Computer Vision**
 
-### `B.Tech CSE · AI / ML · Computer Vision · NLP`
+Research Intern at **LTRC, IIIT Hyderabad** · B.Tech in Computer Science & IT (2025) · Hyderabad, India
 
-*Building intelligent systems — from real-time video analytics to multilingual data tools*
-
-
-
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-manish--maurya-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-maurya-6492bb249/)
+[![Email](https://img.shields.io/badge/Email-manish.maurya0408%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:manish.maurya0408@gmail.com)
 
 ---
 
-## About Me
+## About
 
-B.Tech Computer Science graduate from **REVA Institute of Technology, Bangalore** (2021–2025), specialising in **AI and Machine Learning**.
+I work on NLP and LLM systems: fine-tuning transformer models, building synthetic data pipelines, and
+testing how well AI agents actually perform. Most of my work is on multilingual and low-resource language
+data, and I also have hands-on experience with real-time computer vision.
 
-I build practical ML systems — real-time computer vision pipelines, NLP data tooling, and emotion-aware applications. My current focus is on **deep learning**, **multilingual NLP**, and making AI work for underrepresented languages and low-resource settings.
-
-```python
-profile = {
-    "name":       "Manish Maurya",
-    "degree":     "B.Tech CSE — REVA Institute of Technology, Bangalore (2021–2025)",
-    "focus":      ["Deep Learning", "Computer Vision", "NLP", "Multilingual AI"],
-    "stack":      ["Python", "PyTorch", "TensorFlow", "OpenCV", "Streamlit"],
-    "email":      "manish.maurya0408@gmail.com",
-    "location":   "India "
-}
-```
+**Open to** entry-level ML Engineer, NLP Engineer and AI / LLM Engineer roles in Bengaluru, Hyderabad or remote.
 
 ---
 
-## 🚀 Featured Projects
+## Experience
 
-| Project | What It Does | Tech Stack |
-|---|---|---|
-|  [Basketball Analytics](https://github.com/Manishmaurya89/Basketball-Analytics-Estimation-Using-Object-Segmentation-) | Detects & tracks players, ball, and court elements from game footage. 95%+ detection accuracy, real-time heatmaps & team stats | YOLOv8 · DeepSORT · OpenCV · PyTorch · Docker |
-|  [Music × Emotion](https://github.com/Manishmaurya89/MUSIC-RECOMMENDATION-USING-FACIAL-RECOGNITION) | Webcam-based emotion detection recommends music in real time. CNN inference optimised by 25% | Python · CNN · OpenCV · TF/Keras · Streamlit |
-|  [Face Direction Detection](https://github.com/Manishmaurya89/Face-direction-detection) | Real-time head orientation system with Kalman filtering. Improved detection accuracy by 30% | Python · CNN · OpenCV · Kalman Filter |
-|  [Synthetic Data Generator](https://github.com/Manishmaurya89/Synthetic-data-generator-) | Generates multilingual NLP datasets in 13 languages (Hindi, Urdu, Tamil, Telugu + more) via local LLM | Python · Ollama · ReportLab · gTTS |
+**Research Intern · Language Technologies Research Centre (LTRC), IIIT Hyderabad**
+*May 2026 – Present*
+- Fine-tune pretrained transformer language models with Hugging Face Transformers
+- Build synthetic dataset pipelines (LLM generation plus heuristic filtering) for fine-tuning and evaluation
+- Automate data collection and experiment workflows through API integrations
 
----
-
-## 🛠️ Skills
-
-**Languages & Frameworks**
-`Python` `TensorFlow` `PyTorch` `Scikit-learn` `OpenCV` `YOLOv8`
-
-**Data & Visualisation**
-`Pandas` `NumPy` `Matplotlib`
-
-**Tools & Platforms**
-`Docker` `Git` `Jupyter Notebook` `VS Code` `Streamlit` `SQL`
+**Research Intern · DRDO, Centre for Artificial Intelligence and Robotics (CAIR), Bengaluru**
+*Feb 2025 – Apr 2025*
+- Compared monolingual and multilingual NER models using F1 evaluation
+- Worked on zero-shot, entity-agnostic NER with span-based models such as GLiNER
+- Contributed to a model-agnostic NER inference engine with language-ID routing, a standard output schema
+  and multi-process ONNX inference
 
 ---
 
-## 🏅 Certifications
+## Featured Projects
 
-- 🎓 **Machine Learning Specialization** — DeepLearning.AI
-- 🎓 **TensorFlow Developer Professional Certificate** — DeepLearning.AI
-- 🎓 **Python for Everybody** — Udemy
-- 🎓 **Python for Data Science** — IBM SkillsBuild
-- 🎓 **HTML & CSS** — Coursera / Johns Hopkins University
+### LLMs and AI agents
+
+| Project | What it does | Tech |
+| --- | --- | --- |
+| [**repo-bug-hunter**](https://github.com/Manishmaurya89/repo-bug-hunter) | An AI coding agent that fixes real GitHub issues inside a Docker sandbox. Each fix is graded by the project's hidden tests from SWE-bench Verified, and every run can be replayed in the browser. Published on PyPI. | Python · Docker · LLM APIs · SWE-bench |
+| [**MCP-GuardBench**](https://github.com/Manishmaurya89/mcp-guardbench) | Checks the MCP servers used by Claude, Cursor, VS Code and Windsurf for tool poisoning and rug pulls, and benchmarks MCP security tools on 11 deliberately vulnerable servers. | Python · MCP · Docker |
+
+### NLP and synthetic data
+
+| Project | What it does | Tech |
+| --- | --- | --- |
+| [**Synthetic Document Factory**](https://github.com/Manishmaurya89/Synthetic-Document-Factory) | Generates labelled document-layout datasets with a local LLM: PDFs, page images and exact COCO / YOLO bounding boxes using the DocLayNet labels. | Python · Ollama · ReportLab · Matplotlib |
+| [**Synthetic Data Generator**](https://github.com/Manishmaurya89/Synthetic-data-generator-) | Creates clean, deduplicated text datasets in 13 Indian and South Asian languages with any local LLM, and exports to TXT, JSON, CSV, PDF or MP3. | Python · Ollama · ReportLab · gTTS |
+
+### Computer vision
+
+| Project | What it does | Tech |
+| --- | --- | --- |
+| [**Basketball Analytics**](https://github.com/Manishmaurya89/Basketball-Analytics-Estimation-Using-Object-Segmentation-) | Detects and tracks players and the ball in game footage (95%+ detection accuracy), assigns teams by jersey colour, and computes possession and pass statistics. | YOLOv8 · DeepSORT · OpenCV · PyTorch · Docker |
+| [**Music Recommendation from Facial Emotion**](https://github.com/Manishmaurya89/MUSIC-RECOMMENDATION-USING-FACIAL-RECOGNITION) | Detects 7 emotions from a webcam with a custom CNN and recommends music to match, with about 25% lower inference latency. | TensorFlow / Keras · OpenCV · Streamlit |
+| [**Face Direction Detection**](https://github.com/Manishmaurya89/Face-direction-detection) | Real-time head-orientation detection with Kalman filtering, improving detection accuracy by 30%. | Python · CNN · OpenCV · Kalman Filter |
 
 ---
 
+## Skills
+
+| Area | Tools |
+| --- | --- |
+| **Languages** | Python, Java, SQL |
+| **ML and deep learning** | PyTorch, TensorFlow / Keras, scikit-learn, Hugging Face Transformers |
+| **NLP and LLMs** | LLM fine-tuning, NER, GLiNER, synthetic data generation, Ollama, ONNX |
+| **Computer vision** | OpenCV, YOLOv8, DeepSORT |
+| **Data** | Pandas, NumPy, Matplotlib |
+| **Tools** | Docker, Git, REST APIs, Jupyter, Streamlit |
+
 ---
 
-## 🧠 Engineering Philosophy
+## Education
 
-- If it’s not measurable, it’s not improving  
-- If it’s not reproducible, it’s not engineering  
-- If it doesn’t scale, it’s a prototype  
+**B.Tech, Computer Science and Information Technology** · REVA Institute of Technology, Bengaluru · 2021 – 2025
 
-- Building myself
+## Certifications
 
----
-
-<div align="center">
-
-📧 `manish.maurya0408@gmail.com` &nbsp;|&nbsp; 📍 India
-
-*"*"I don’t just build models — I build systems that work in the real world."*
-
-</div>
+- Machine Learning Specialization · DeepLearning.AI
+- TensorFlow Developer Professional Certificate · DeepLearning.AI
+- Python for Data Science · IBM
+- Python for Everybody · Udemy
+- HTML and CSS · Johns Hopkins University (Coursera)
