@@ -43,7 +43,7 @@ data, and I also have hands-on experience with real-time computer vision.
 | Project | What it does | Tech |
 | --- | --- | --- |
 | [**repo-bug-hunter**](https://github.com/Manishmaurya89/repo-bug-hunter) | An AI coding agent that fixes real GitHub issues inside a Docker sandbox. Each fix is graded by the project's hidden tests from SWE-bench Verified, and every run can be replayed in the browser. Published on PyPI. | Python · Docker · LLM APIs · SWE-bench |
-| [**MCP-GuardBench**](https://github.com/Manishmaurya89/mcp-guardbench) | Checks the MCP servers used by Claude, Cursor, VS Code and Windsurf for tool poisoning and rug pulls, and benchmarks MCP security tools on 11 deliberately vulnerable servers. | Python · MCP · Docker |
+| [**MCP-GuardBench**](https://github.com/Manishmaurya89/mcp-guardbench) | Checks the MCP servers used by Claude, Cursor, VS Code and Windsurf for tool poisoning and rug pulls, and benchmarks MCP security tools on 11 deliberately vulnerable servers. Published on PyPI. | Python · MCP · Docker |
 
 ### NLP and synthetic data
 
@@ -56,9 +56,9 @@ data, and I also have hands-on experience with real-time computer vision.
 
 | Project | What it does | Tech |
 | --- | --- | --- |
-| [**Basketball Analytics**](https://github.com/Manishmaurya89/Basketball-Analytics-Estimation-Using-Object-Segmentation-) | Detects and tracks players and the ball in game footage (95%+ detection accuracy), assigns teams by jersey colour, and computes possession and pass statistics. | YOLOv8 · DeepSORT · OpenCV · PyTorch · Docker |
-| [**Music Recommendation from Facial Emotion**](https://github.com/Manishmaurya89/MUSIC-RECOMMENDATION-USING-FACIAL-RECOGNITION) | Detects 7 emotions from a webcam with a custom CNN and recommends music to match, with about 25% lower inference latency. | TensorFlow / Keras · OpenCV · Streamlit |
-| [**Face Direction Detection**](https://github.com/Manishmaurya89/Face-direction-detection) | Real-time head-orientation detection with Kalman filtering, improving detection accuracy by 30%. | Python · CNN · OpenCV · Kalman Filter |
+| [**Basketball Analytics**](https://github.com/Manishmaurya89/Basketball-Analytics-Estimation-Using-Object-Segmentation-) | Detects and tracks players and the ball in game footage, assigns teams with a zero-shot CLIP model, and computes possession, passes and player speed on a top-down court view. Built on an open-source project. | YOLO · ByteTrack · CLIP · OpenCV · PyTorch |
+| [**Music Recommendation from Facial Emotion**](https://github.com/Manishmaurya89/MUSIC-RECOMMENDATION-USING-FACIAL-RECOGNITION) | Detects 7 emotions from a webcam with a CNN and recommends songs to match. | TensorFlow / Keras · OpenCV · Streamlit |
+| [**Face Direction Detection**](https://github.com/Manishmaurya89/Face-direction-detection) | Real-time head-direction detection in the browser from MediaPipe FaceMesh landmarks. Built on an open-source React demo. | JavaScript · React · TensorFlow.js · MediaPipe |
 
 ---
 
@@ -69,7 +69,7 @@ data, and I also have hands-on experience with real-time computer vision.
 | **Languages** | Python, Java, SQL |
 | **ML and deep learning** | PyTorch, TensorFlow / Keras, scikit-learn, Hugging Face Transformers |
 | **NLP and LLMs** | LLM fine-tuning, NER, GLiNER, synthetic data generation, Ollama, ONNX |
-| **Computer vision** | OpenCV, YOLOv8, DeepSORT |
+| **Computer vision** | OpenCV, YOLO, ByteTrack, MediaPipe |
 | **Data** | Pandas, NumPy, Matplotlib |
 | **Tools** | Docker, Git, REST APIs, Jupyter, Streamlit |
 
