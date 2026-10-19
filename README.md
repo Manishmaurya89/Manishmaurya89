@@ -67,10 +67,10 @@ routing, a shared output schema and multi-process ONNX inference.
 
 ## Skills
 
-- **Languages:** Python, Java, SQL
-- **ML and deep learning:** PyTorch, TensorFlow/Keras, scikit-learn, Hugging Face Transformers
+- **Languages:** Python, SQL
+- **ML and deep learning:** PyTorch,Transformers,Fine-tuning,LoRA
 - **NLP and LLMs:** LLM fine-tuning, NER, GLiNER, synthetic data generation, Ollama, ONNX
-- **Computer vision:** OpenCV, YOLO, ByteTrack, MediaPipe
+- **Computer vision:** OpenCV, YOLO, ByteTrack, 
 - **Data:** Pandas, NumPy, Matplotlib
 - **Tools:** Docker, Git, REST APIs, Jupyter, Streamlit
 
