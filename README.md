@@ -3,7 +3,7 @@
 I work on NLP and LLMs. Right now I'm a research intern at LTRC, IIIT Hyderabad. I finished my B.Tech in
 Computer Science & IT in 2025.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-manish--maurya.vercel.app-2563EB?logo=vercel&logoColor=white)](https://manish-maurya.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20my%20work-2563EB?logo=googlechrome&logoColor=white)](https://manish-maurya.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manish--maurya-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-maurya-6492bb249/)
 [![Email](https://img.shields.io/badge/Email-manish.maurya0408%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:manish.maurya0408@gmail.com)
 
