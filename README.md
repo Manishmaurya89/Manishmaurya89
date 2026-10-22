@@ -1,8 +1,7 @@
 <h2 align="center">Manish Maurya</h2>
 
 <p align="center">
-I build LLM systems and then try to break them: fine-tuning for Indic languages,<br>
-synthetic training data, and security for AI agents that use tools.
+I build LLM systems and then try to break them: fine-tuning for Indic languages, synthetic training data, and security for AI agents that use tools.
 </p>
 
 <p align="center">
